@@ -1,1 +1,1 @@
-Строка для конфликта
+Changed file for second task
