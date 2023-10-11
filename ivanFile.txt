@@ -1,1 +1,1 @@
-Updated groovy text
+Строка для конфликта
