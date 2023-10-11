@@ -1,1 +1,1 @@
-Updated groovy text for second time
+Исправил конфликт!
